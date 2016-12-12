@@ -1,5 +1,14 @@
 /**
- * Created by Seb on 12/12/2016.
+ * Created by Gaby on 29/11/2016.
  */
 public class Main {
+
+        public static void main(String[] args) {
+
+            // write your code here
+                LoupGarous lp1 = new LoupGarous("Couscous" , 2);
+
+                System.out.println(lp1);
+
+        }
 }
